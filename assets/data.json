@@ -1,0 +1,72 @@
+[
+  {
+    "MOROSO": "si",
+    "ANTIGUEDAD": ">5",
+    "INGRESOS": "600-1200",
+    "TRABAJO": "tiene",
+    "CREDITO": "rechazado"
+  },
+  {
+    "MOROSO": "no",
+    "ANTIGUEDAD": "<1",
+    "INGRESOS": "600-1200",
+    "TRABAJO": "tiene",
+    "CREDITO": "aceptado"
+  },
+  {
+    "MOROSO": "si",
+    "ANTIGUEDAD": "1-5",
+    "INGRESOS": ">1200",
+    "TRABAJO": "tiene",
+    "CREDITO": "rechazado"
+  },
+  {
+    "MOROSO": "no",
+    "ANTIGUEDAD": ">5",
+    "INGRESOS": ">1200",
+    "TRABAJO": "no-tiene",
+    "CREDITO": "aceptado"
+  },
+  {
+    "MOROSO": "no",
+    "ANTIGUEDAD": "<1",
+    "INGRESOS": ">1200",
+    "TRABAJO": "tiene",
+    "CREDITO": "aceptado"
+  },
+  {
+    "MOROSO": "si",
+    "ANTIGUEDAD": "1-5",
+    "INGRESOS": "600-1200",
+    "TRABAJO": "tiene",
+    "CREDITO": "rechazado"
+  },
+  {
+    "MOROSO": "no",
+    "ANTIGUEDAD": "1-5",
+    "INGRESOS": ">1200",
+    "TRABAJO": "tiene",
+    "CREDITO": "aceptado"
+  },
+  {
+    "MOROSO": "no",
+    "ANTIGUEDAD": "<1",
+    "INGRESOS": "<600",
+    "TRABAJO": "tiene",
+    "CREDITO": "rechazado"
+  },
+  {
+    "MOROSO": "no",
+    "ANTIGUEDAD": ">5",
+    "INGRESOS": "600-1200",
+    "TRABAJO": "no-tiene",
+    "CREDITO": "rechazado"
+  },
+  {
+    "MOROSO": "si",
+    "ANTIGUEDAD": "1-5",
+    "INGRESOS": "<600",
+    "TRABAJO": "no-tiene",
+    "CREDITO": "rechazado"
+  }
+]
