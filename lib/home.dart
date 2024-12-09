@@ -133,7 +133,9 @@ class Home extends StatelessWidget {
                     Navigator.pushAndRemoveUntil(
                       context,
                       MaterialPageRoute(
-                        builder: (context) => DecisionTreeGraphPage(),
+                        builder: (context) => DecisionTreeGraphPage(
+                          tree: tree,
+                        ),
                       ),
                       (route) => false, // Condición para conservar rutas
                     );
